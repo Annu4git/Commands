@@ -1,0 +1,5 @@
+1. For xjc generation :
+
+clean install -Djavax.xml.accessExternalSchema=all
+
+2.
