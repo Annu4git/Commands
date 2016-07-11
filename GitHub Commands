@@ -1,0 +1,9 @@
+1. git init : Initialize empty git repository.
+2. git status : Gives the status.
+3. git add file-name.extension : to add a file in repository. e.g.: git add hello.txt
+4. git commit -m "comments" : to commit file which we just added
+5. git add '*.extension' : add files using wildcard. e.g.: git add '*.txt' - will add all text files.
+6. git commit -m 'comments' : commit all files
+7. git log : to see all logs, changes we made so far.
+8. git remote add origin https://github.com/url/repo-name.git : to add our local repo to git server
+9. 
