@@ -9,3 +9,10 @@ Steps : Eclipse Preferences
 > Finish
 > Check JDK
 > Apply and Okay
+
+2. How to tell the "Team Synchronizing" to ignore some files :
+Solution : Eclipse Preferences 
+> Team
+> Ignored Resources
+> Add Pattern
+> Ok > Apply > Ok
