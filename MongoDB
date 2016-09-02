@@ -1,0 +1,5 @@
+1. To change mongodb store directory :
+
+mongod --dbpath d:/data
+
+2.
